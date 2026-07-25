@@ -1,4 +1,5 @@
 Python Calculator
+
 A simple calculator application developed with Python.
 This project was created to practice fundamental Python programming concepts and build a small functional application.
 
